@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pbxmy66
+- 👋 Hi, I’m Oscar Daniel Ramirez
 - 👀 I’m interested in developing my python programming skills
-- 🌱 I’m currently learning how to create data visualizations in plotly and dash
+- 🌱 I'm currently learning about python web development frameworks (flask/django)
 - 💞️ I’m looking to collaborate on data analytics projects requiring visualization
 
 <!---
